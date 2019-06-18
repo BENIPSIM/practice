@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package midtermreviewcodeforpartc;
-
+//hi
 import java.util.Scanner;
 //simarjot singh benipal hi
 /**
